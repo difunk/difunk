@@ -16,5 +16,5 @@
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Github-323330?style=for-the-badge&logo=github&logoColor=white" />
 
 ## Get in touch
-<a href="https://www.linkedin.com/in/dirk-funk-64002a206/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/difunk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="mailto:dirk_funk@web.de" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="email" height="30" width="40" /></a>
