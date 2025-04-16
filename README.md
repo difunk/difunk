@@ -1,6 +1,6 @@
 ## Hello 👋
 ### I'm Dirk, a Frontend Developer from Frankfurt. 
-- 👨‍💻 Exploring various learning projects in **JavaScript** and **React**  
+- 👨‍💻 Exploring various learning projects in **JavaScript**, **TypeScript** and **React**  
 - 🌱 Currently enhancing my skills in **React** 
 
 ## Tech stack
