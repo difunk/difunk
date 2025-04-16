@@ -4,6 +4,7 @@
 - 🌱 Currently enhancing my skills in **React** 
 
 ## Tech stack
+<a href="#"  target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><a/>
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" /></a> 
 <a href="#"  target="_blank"><img src="https://img.shields.io/badge/CSS3-0070BB?style=for-the-badge&logo=css3&logoColor=white" /> <a/>
