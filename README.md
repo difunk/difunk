@@ -1,9 +1,10 @@
 ## Hello 👋
 ### I'm Dirk, a Frontend Developer from Frankfurt. 
-- 👨‍💻 Exploring various learning projects in **JavaScript**, **TypeScript** and **React**  
-- 🌱 Currently enhancing my skills in **React** 
+- 👨‍💻 Exploring various learning projects in **JavaScript**, **TypeScript** and **Next.js**  
+- 🌱 Currently enhancing my skills in **React** and **Next.js** 
 
 ## Tech stack
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
 <a href="#"  target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><a/>
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" /></a> 
