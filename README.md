@@ -3,6 +3,7 @@
 - 👨‍💻 Passionate about learning and building projects with **JavaScript**, **TypeScript** and **Next.js**  
 - 🌱 Currently deepening my skills in **React** and **Next.js** and also diving into **Angular**
 - 🚀 Attending the Advanced Web Development Bootcamp at [neue fische](https://www.neuefische.de/)
+- 🤖 Proficient in integrating AI tools into daily workflows, always cross-checking AI-generated content for possible inaccuracies, biases, or misleading information.
 
 
 ## Tech Stack
