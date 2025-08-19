@@ -10,6 +10,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB2" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.shields.io/badge/-🐻%20Zustand-B07D56?style=for-the-badge&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Nunjucks-1C4913?style=for-the-badge&logo=nunjucks&logoColor=white" /></a>
