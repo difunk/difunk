@@ -1,14 +1,13 @@
 ## Hello 👋
 ### I'm Dirk, a Frontend Developer from Frankfurt. 
-- 👨‍💻 Passionate about learning and building projects with **JavaScript**, **TypeScript** and **Next.js**  
-- 🌱 Currently deepening my skills in **React** and **Next.js** and also diving into **Angular**
-- 🚀 Attending the Advanced Web Development Bootcamp at [neue fische](https://www.neuefische.de/)
+- 👨‍💻 Passionate about building projects with **TypeScript** and frameworks like **Next.js**
+- 🌱 Currently expanding my expertise in full-stack development, focusing on **Next.js**
+- 🚀 Successfully completed the "Advanced Web Development" professional training at [neue fische](https://www.neuefische.de/)
 - 🤖 Proficient in integrating AI tools into daily workflows, always cross-checking AI-generated content for possible inaccuracies, biases, or misleading information.
 
 
 ## Tech Stack
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB2" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
 <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.shields.io/badge/-🐻%20Zustand-B07D56?style=for-the-badge&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
@@ -24,6 +23,9 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-0070BB?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></a>
+
+
 <br/>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Github-323330?style=for-the-badge&logo=github&logoColor=white" /></a>
