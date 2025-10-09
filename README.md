@@ -1,7 +1,7 @@
 ## Hello 👋
 ### I'm Dirk, a Frontend Developer from Frankfurt. 
 - 👨‍💻 Passionate about building projects with **TypeScript** and frameworks like **Next.js**
-- 🌱 Currently expanding my expertise in full-stack development, focusing on **Next.js**
+- 🌱 Currently expanding my expertise in full-stack development, focusing on **Next.js** and **Vue.js**
 - 🚀 Successfully completed the "Advanced Web Development" professional training at [neue fische](https://www.neuefische.de/)
 - 🤖 Proficient in integrating AI tools into daily workflows, always cross-checking AI-generated content for possible inaccuracies, biases, or misleading information.
 
@@ -9,6 +9,7 @@
 ## Tech Stack
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB2" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
 <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.shields.io/badge/-🐻%20Zustand-B07D56?style=for-the-badge&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
