@@ -1,5 +1,5 @@
 ## Hello 👋
-### I'm Dirk, a Frontend Developer from Frankfurt. 
+### I'm Dirk, a Developer from Frankfurt. 
 - 👨‍💻 Passionate about building projects with **TypeScript** and frameworks like **Next.js**
 - 🌱 Currently expanding my expertise in full-stack development, focusing on **Next.js** and **Vue.js**
 - 🚀 Successfully completed the "Advanced Web Development" professional training at [neue fische](https://www.neuefische.de/)
@@ -19,6 +19,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Auth-6C47FF?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth Badge" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/API%20Development-FF6F00?style=for-the-badge&logo=postman&logoColor=white" alt="API Development Badge" /></a>
+<A href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7" /></a>
