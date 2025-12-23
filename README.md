@@ -1,6 +1,7 @@
 ## Hello 👋
 ### I'm Dirk, a Developer from Frankfurt. 
 - 👨‍💻 Passionate about building projects with **TypeScript** and frameworks like **Next.js**
+- 📱 Currently expanding my toolkit by learning **Flutter** for cross-platform mobile development
 - 🌱 Actively developing **[filevault](https://goo-drive.netlify.app/)**, a modern google drive clone with file management, authentication, and real-time features
 - 🚀 Successfully completed the "Advanced Web Development" professional training at [neue fische](https://www.neuefische.de/)
 - 🤖 Proficient in integrating AI tools into daily workflows, always cross-checking AI-generated content for possible inaccuracies, biases, or misleading information.
