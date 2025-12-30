@@ -1,5 +1,5 @@
 ## Hello 👋
-### I'm Dirk, a Developer from Frankfurt. 
+### I'm Dirk, a Software Engineer from Frankfurt. 
 - 👨‍💻 Passionate about building projects with **TypeScript** and frameworks like **Next.js**
 - 📱 Currently expanding my toolkit by learning **Flutter** for cross-platform mobile development
 - 🌱 Actively developing **[filevault](https://goo-drive.netlify.app/)**, a modern google drive clone with file management, authentication, and real-time features
